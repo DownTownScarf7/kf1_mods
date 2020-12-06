@@ -1,0 +1,331 @@
+[AK12AssaultRifle]
+Description="The Kalashnikov AK-12 (formerly AK-200) is the newest derivative of the Soviet/Russian AK-47 series of assault rifles and was proposed for possible general issue to the Russian Army. This version uses the 5.45x39mm ammo (the same as AK-74)"
+ItemName="AK-12 SE"
+
+[AK12Pickup]
+ItemName="AK-12 SE"
+ItemShortName="AK-12 SE"
+PickupMessage="You got the AK-12"
+
+[AK545Ammo]
+ItemName="5.45x39mm"
+
+[AK545AmmoPickup]
+PickupMessage="Rounds 5.45x39mm"
+
+[AKC74AssaultRifle]
+Description="The AK-74 is an assault rifle developed in the early 1970s in the Soviet Union as the replacement for the earlier AKM (itself a refined version of the AK-47). It uses a smaller intermediate cartridge, the 5.45x39mm, replacing the 7.62x39mm chambering of earlier Kalashnikov-pattern weapons. Smaller ammunition lowers damage, but makes weapon lighter."
+ItemName="AK-74 SE"
+
+[AKC74Pickup]
+ItemName="AK-74 SE"
+ItemShortName="AK-74 SE"
+PickupMessage="You've got a AK-74"
+
+[CZ805M]
+Description="Horzine's modification of CZ-805 BREN rifle with attached healing dart launcher. Usefull for both Medic and Commando perks."
+ItemName="CZ-805M Medic/Assault Rifle SE"
+
+[CZ805MAmmo]
+ItemName="5.56mm bullets"
+
+[CZ805MAmmoPickup]
+PickupMessage="Rounds 5.56mm"
+
+[CZ805MPickup]
+ItemName="CZ-805M SE"
+ItemShortName="CZ-805M SE"
+PickupMessage="You got the CZ-805M"
+
+[Colt]
+Description="The Colt Python is a double action handgun chambered for the .357 Magnum cartridge, built on Colt's large I-frame. Pythons have a reputation for accuracy, smooth trigger pull, and a tight cylinder lock-up."
+ItemName="Colt Python SE"
+
+[ColtAmmo]
+ItemName=".357 bullets"
+
+[ColtAmmoPickup]
+PickupMessage=".357 Ammo"
+
+[ColtPickup]
+ItemName="Colt Python SE"
+ItemShortName="Colt SE"
+PickupMessage="You got the Colt Python handgun"
+
+[DamTypeAK12AssaultRifle]
+DeathString="%k killed %o (AK-12)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeAK74AssaultRifle]
+DeathString="%k killed %o (AK-74)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeCZ805M]
+DeathString="%k killed %o (CZ 805)."
+
+[DamTypeColt]
+DeathString="%k 'colted' %o."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeHK417AR]
+DeathString="%k killed %o (HK-417)."
+
+[DamTypeHuntingRifle]
+DeathString="%k killed %o (Hunting Rifle)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeMedicOvercharge]
+DeathString="%o took overdose from by %k."
+FemaleSuicide="%o took overdose."
+MaleSuicide="%o took overdose."
+
+[DamTypeMedicPistol]
+DeathString="%k killed %o (healing darts)."
+FemaleSuicide="%o overdosed healing injections."
+MaleSuicide="%o overdosed healing injections."
+
+[DamTypeSVD]
+DeathString="%k killed %o (SVDS)"
+
+[DamTypeSVDm]
+DeathString="%k killed %o (SVD)."
+
+[DamTypeSaiga12c]
+DeathString="%k killed %o (Saiga12c)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeSpas]
+DeathString="%k killed %o (SPAS-12)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeVALDT]
+DeathString="%k killed %o (VAL)."
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[DamTypeVSSDT]
+DeathString="%k killed %o (Vintorez)."
+
+[HK417AR]
+Description="The Heckler&Koch HK417 is a gas-operated, selective fire rifle with a rotating bolt and is essentially an enlarged HK416 assault rifle. Chambered for the full power 7.62x51mm AP NATO round, instead of a less powerful intermediate cartridge, the HK417 is intended for use as a designated marksman rifle, and in other roles where the greater penetrative power and range of the 7.62x51mm NATO round are required."
+ItemName="HK417 SE"
+
+[HK417Ammo]
+ItemName="7.62x51mm NATO AP"
+
+[HK417AmmoPickup]
+PickupMessage="7.62x51mm NATO AP"
+
+[HK417Pickup]
+ItemName="HK417 SE"
+ItemShortName="HK417 SE"
+PickupMessage="You've got a HK417"
+
+[HRL]
+Description="Horzine's modification of L.A.W. Smaller and lighter rockets not only allowing to carry more of them, but also are much easier to reload."
+ItemName="HRL-1 Rocket Launcher SE"
+
+[HRLAmmo]
+ItemName="HRL-1 Rockets"
+
+[HRLAmmoPickup]
+PickupMessage="HRL-1 Rockets"
+
+[HRLPickup]
+ItemName="HRL-1 Rocket Launcher SE"
+ItemShortName="HRL-1 SE"
+PickupMessage="You got the HRL-1 Rocket Launcher"
+
+[HopMineAmmo]
+ItemName="HopMines"
+
+[HopMineAmmoPickup]
+PickupMessage="HopMines"
+
+[HopMineLPickup]
+ItemName="HopMine Launcher SE"
+ItemShortName="HopMine SE"
+PickupMessage="You got the HopMine Launcher."
+
+[HopMineLchr]
+MinesText="Mines: "
+Description="The prototype of Hopmine launcher. Alpha version. Have some serious bugs like mines are detonated by each other. But still can be very useful."
+ItemName="HopMine Launcher SE"
+
+[HuntingRifle]
+Description="A recreational hunting weapon, featuring a firing trigger and a powerful integrated scope. "
+ItemName="Hunting Rifle SE"
+
+[HuntingRifleAmmo]
+ItemName="Rifle bullets"
+
+[HuntingRifleAmmoPickup]
+PickupMessage=".308 rounds"
+
+[HuntingRiflePickup]
+ItemName="Hunting Rifle SE"
+ItemShortName="Hunter R.SE"
+PickupMessage="You got the Hunting Rifle"
+
+[MTS255Ammo]
+ItemName="Explosive 12-gauge Shells"
+
+[MTS255AmmoPickup]
+PickupMessage="Explosive 12-gauge Shells"
+
+[MTS255Pickup]
+ItemName="MTs-255 Shotgun SE"
+ItemShortName="MTs-255 SE"
+PickupMessage="You got the MTs-255 Explosive Shotgun"
+
+[MTS255Shotgun]
+Description="The MTs-255 is a 12-gauge shotgun fed by a 5-round internal revolving cylinder. Holds up to 5 explosive slugs."
+ItemName="MTs-255 Shotgun SE"
+
+[MedicPistol]
+Description="Primary fire shoots healing darts. Darts heal zeds too, but it doesn't help them much, if titanium needle breaks their skulls first. Shooting multiple dart into the same zed may cause overdose. Alternate fire switch between laser and flashlight."
+ItemName="KF2 Medic Pistol SE"
+
+[MedicPistolAmmo]
+ItemName="Healing Darts"
+
+[MedicPistolAmmoPickup]
+PickupMessage="Healing Darts"
+
+[MedicPistolPickup]
+ItemName="KF2 Medic Pistol SE"
+ItemShortName="KF2 Medic Pistol SE"
+PickupMessage="You got the Medic Pistol"
+
+[Protecta]
+Description="Protecta Automatic Shotgun was outshined by AA12 in every aspect until Horzine technicians managed to load it with flares..."
+ItemName="Flare Shotgun 'Protecta' SE"
+
+[ProtectaAmmo]
+ItemName="Liquid-Gas Shells"
+
+[ProtectaAmmoPickup]
+PickupMessage="Liquid-Gas Shells"
+
+[ProtectaPickup]
+ItemName="Protecta SE"
+ItemShortName="Protecta SE"
+PickupMessage="You got the Protecta"
+
+[RPG]
+Description="RPG-7 Rocket Launcher. Very high damage, but narrow blast radius and rockets drop over distance. Use Altfire to toggle scope."
+ItemName="RPG-7 SE"
+
+[RPGAmmo]
+ItemName="RPG-7 Rockets"
+
+[RPGAmmoPickup]
+PickupMessage="PG7VL Rockets"
+
+[RPGPickup]
+ItemName="RPG-7 SE"
+ItemShortName="RPG-7 SE"
+PickupMessage="You got the RPG-7"
+
+[RPGSwitchMessage]
+SwitchMessage[0]="Detaching Scope"
+SwitchMessage[1]="Attaching Scope"
+
+[SVD]
+Description="The Dragunov sniper rifle (formally Russian: Snayperskaya Vintovka Dragunova, SVD) is a semi-automatic sniper rifle/designated marksman rifle chambered in 7H1 sniper rounds and developed in the Soviet Union."
+ItemName="SVD (Dragunov) SE"
+
+[SVDAmmo]
+ItemName="7H1 Sniper Rounds"
+
+[SVDAmmoPickup]
+PickupMessage="7H1 Sniper Rounds"
+
+[SVDPickup]
+ItemName="SVD (Dragunov) SE"
+ItemShortName="SVD SE"
+PickupMessage="You've got the Dragunov Sniper Rifle (SVD)"
+
+[SVDS]
+Description="The Dragunov sniper rifle with folding stock (formally Russian: Snayperskaya Vintovka Dragunova Skladnaya, SVDS) is a compact variant of the SVD, which was developed in the early 1990s. Uses Horzine's 5-round 7.62x54mmR magazines to reduce weight."
+ItemName="SVDS SE"
+
+[SVDSAmmo]
+ItemName="7.62x54mmR"
+
+[SVDSAmmoPickup]
+PickupMessage="7.62x54mmR"
+
+[SVDSPickup]
+ItemName="SVDS SE"
+ItemShortName="SVDS SE"
+PickupMessage="You've got the Dragunov Sniper Rifle (SVDS)"
+
+[SWPAch]
+GroupInfo=((Caption="ALL"),(Caption="Custom Weapons"))
+ProgressName="ScrN Weapon Achievements"
+
+[SWPMut]
+FriendlyName="ScrN Weapon Pack"
+Description="Adds weapon-specific achievements for ScrN Weapon Pack"
+
+[Saiga12c]
+Description="12-gauge combat shotgun, visually patterned after the Kalashnikov series of assault rifles. Huge damage, but low penetration."
+ItemName="Saiga-12s SE"
+
+[Saiga12cAmmoPickup]
+PickupMessage="12-gauge"
+
+[Saiga12cPickup]
+ItemName="Saiga-12s SE"
+ItemShortName="Saiga-12s SE"
+PickupMessage="You've got Saiga-12s"
+
+[Spas]
+Description="The Franchi SPAS12 is a combat shotgun manufactured by Italian firearms company Franchi from 1979 to 2000. The SPAS12 is a dual-mode shotgun, adjustable for semi-automatic or pump-action operation."
+ItemName="SPAS-12 SE"
+
+[SpasAmmoPickup]
+PickupMessage="12-Gauge Shells"
+
+[SpasPickup]
+ItemName="SPAS-12 SE"
+ItemShortName="SPAS-12 SE"
+PickupMessage="You got the spas-12."
+
+[VALDTAmmo]
+ItemName="9x39mm PAB-9"
+
+[VALDTAmmoPickup]
+PickupMessage="9x39mm PAB-9"
+
+[VALDTAssaultRifle]
+Description="The AS VAL (Avtomat Specialnyj Val or Special Assault Rifle) is a Soviet designed assault rifle featuring an integrated suppressor. It was developed during the late 1980s by TsNIITochMash (Central Institute for Precision Machine Building) and is used by Russian Spetsnaz special forces and select units of the Russian Army. Loaded with a lower-cost version of 9x39mm rounds: PAB-9."
+ItemName="AS 'VAL' SE"
+
+[VALDTPickup]
+ItemName="AS 'VAL' SE"
+ItemShortName="VAL SE"
+PickupMessage="You've got a AS 'VAL'"
+
+[VSSDT]
+Description="The VSS (Special Sniper Rifle), also called the Vintorez (thread cutter), is a suppressed sniper rifle developed in the late 1980s by TsNIITochMash and manufactured by the Tula Arsenal. It is issued primarily to Spetsnaz units for undercover or clandestine operations, a role made evident by its ability to be stripped down for transport in a specially fitted briefcase."
+ItemName="VSS (Vintorez) SE"
+
+[VSSDTAmmo]
+ItemName="9x39mm SP-5"
+
+[VSSDTAmmoPickup]
+PickupMessage="9x39mm SP-5"
+
+[VSSDTPickup]
+ItemName="VSS (Vintorez) SE"
+ItemShortName="VSS SE"
+PickupMessage="You've got Vintorez"
+

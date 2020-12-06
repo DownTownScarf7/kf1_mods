@@ -1,0 +1,1 @@
+Weapon=(ClassName=Angelic.Angelic,PickupClassName=Angelic.AngelicPickup,AttachmentClassName=Angelic.AngelicAttachment,FriendlyName=Angelic.Angelic.ItemName,Description=Angelic.Angelic.Description,FallbackName="Angelic",FallbackDesc="A Great Melee Weapon from Angelic Set.")

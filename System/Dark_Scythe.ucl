@@ -1,0 +1,1 @@
+Weapon=(ClassName=Dark_Scythe.DS,PickupClassName=Dark_Scythe.DSPickup,AttachmentClassName=Dark_Scythe.DSAttachment,FriendlyName=Dark_Scythe.DS.ItemName,Description=Dark_Scythe.DS.Description,FallbackName="Axe",FallbackDesc="A two-handed Dark Scythe.")

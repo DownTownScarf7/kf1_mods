@@ -1,0 +1,1 @@
+Weapon=(ClassName=bayonet.bayonet,PickupClassName=bayonet.BayonetPickup,AttachmentClassName=bayonet.BayonetAttachment,FriendlyName=bayonet.bayonet.ItemName,Description=bayonet.bayonet.Description,FallbackName="Bayonet",FallbackDesc="Bayonet.")

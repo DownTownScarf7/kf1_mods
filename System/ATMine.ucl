@@ -1,0 +1,1 @@
+Weapon=(ClassName=ATMine.ATMineExplosive,PickupClassName=ATMine.ATMinePickup,AttachmentClassName=ATMine.ATMineAttachment,FriendlyName=ATMine.ATMineExplosive.ItemName,Description=ATMine.ATMineExplosive.Description,FallbackName="Anti-Tank Mine",FallbackDesc="An improvised proximity explosive. Blows up when enemies get close.")

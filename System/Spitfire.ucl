@@ -1,0 +1,2 @@
+Mutator=(ClassName=Spitfire.MutSpitfire,GroupName=KF-MutSpitfire,IconMaterialName=MutatorArt.nosym,FriendlyName=Spitfire.MutSpitfire.FriendlyName,Description=Spitfire.MutSpitfire.Description,FriendlyName=Spitfire.MutSpitfire.FriendlyName,FallbackName="Spitfire Mutator",FallbackDesc="Makin' Bacon")
+Weapon=(ClassName=Spitfire.Spitfire,PickupClassName=Spitfire.SpitfirePickup,AttachmentClassName=Spitfire.SpitfireAttachment,FriendlyName=Spitfire.Spitfire.ItemName,Description=Spitfire.Spitfire.Description,FallbackName="FlameThrower ",FallbackDesc="Flamethrower ")

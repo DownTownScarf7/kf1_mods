@@ -1,0 +1,2 @@
+Mutator=(ClassName=Ashot.MutAshot,GroupName=KF-MutAshot,IconMaterialName=MutatorArt.nosym,FriendlyName=Ashot.MutAshot.FriendlyName,Description=Ashot.MutAshot.Description,FriendlyName=Ashot.MutAshot.FriendlyName,FallbackName="Ashot Mutator",FallbackDesc="You start the game with an Ashot.")
+Weapon=(ClassName=Ashot.Ashot,PickupClassName=Ashot.AshotPickup,AttachmentClassName=Ashot.AshotAttachment,FriendlyName=Ashot.Ashot.ItemName,Description=Ashot.Ashot.Description,FallbackName="Ashot",FallbackDesc="The Ashot is a small shotgun-pistol (or shot-pistol).")

@@ -1,0 +1,1 @@
+Weapon=(ClassName=Mauser.Mauser,PickupClassName=Mauser.MauserPickup,AttachmentClassName=Mauser.MauserAttachment,FriendlyName=Mauser.Mauser.ItemName,Description=Mauser.Mauser.Description,FallbackName="Mauser C96",FallbackDesc="A mauser pistol")

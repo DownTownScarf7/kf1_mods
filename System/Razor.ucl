@@ -1,0 +1,1 @@
+Weapon=(ClassName=Razor.Razor,PickupClassName=Razor.RazorPickup,AttachmentClassName=Razor.RazorAttachment,FriendlyName=Razor.Razor.ItemName,Description=Razor.Razor.Description,FallbackName="Razor Axe",FallbackDesc="Razor Axe.")

@@ -1,0 +1,1 @@
+Mutator=(ClassName=Dumbzeds.RageTimer,GroupName=KFScrakeRageTrigger,IconMaterialName=MutatorArt.nosym,FriendlyName=Dumbzeds.RageTimer.FriendlyName,Description=Dumbzeds.RageTimer.Description,FriendlyName=Dumbzeds.RageTimer.FriendlyName,FallbackName="Scrake Rage Trigger",FallbackDesc="Every 30s there is 60% chance all scrakes will rage")
